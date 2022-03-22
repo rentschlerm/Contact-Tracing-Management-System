@@ -1,0 +1,12 @@
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\bin\Debug\Contact_TracingApp1.exe.config
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\bin\Debug\Contact_TracingApp1.exe
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\bin\Debug\Contact_TracingApp1.pdb
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.csproj.AssemblyReference.cache
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.Form1.resources
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.Properties.Resources.resources
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.csproj.GenerateResource.cache
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.csproj.CoreCompileInputs.cache
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.exe
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.pdb
+C:\Users\Harvey\source\repos\Contact_TracingApp1\Contact_TracingApp1\obj\Debug\Contact_TracingApp1.Form2.resources
